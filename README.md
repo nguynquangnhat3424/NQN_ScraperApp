@@ -10,3 +10,5 @@
 2. Build a user interface for the app that allows users to input keywords and specify the number of articles/videos to scrape, while also enabling users to download the scraped dataframe as an Excel file.
 
 **Note:** Ensure to customize the scraping functions according to the specific structure of each website and platform.
+
+![image](https://github.com/user-attachments/assets/fab9ed26-8457-45fe-a827-d88db7cac11b)
